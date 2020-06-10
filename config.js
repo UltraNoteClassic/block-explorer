@@ -7,16 +7,9 @@ var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
         "xun": [
-                ["Alpha.ultranote.org", "https://alpha.ultranote.org:8119/stats"],
-                //                ["Gamma.ultranote.org", "https://gamma.ultranote.org:8119/stats"],
-                //                ["Delta.ultranote.org", "https://delta.ultranote.org:8119/stats"],
+                ["alpha.ultranote.org", "https://alpha.ultranote.org:8119/stats"],
+                ["superblockchain.con-ip.com/xun", "https://superblockchain.con-ip.com:8137/stats"],
                 ["xun.newpool.cool", "http://xun.newpool.cool:8117/stats"],
-                //                ["the-miners.de/XUN/", "http://207.180.227.127:8117/stats"],
-                //                ["xun.minercountry.com", "https://xun.minercountry.com/api/stats"],
-                //                ["fastpool.xyz/xun", "https://fastpool.xyz:8849/stats"],
-                //                ["kryptoneupool.net", "https://kryptoneupool.net:8332/stats"],
-                //                ["ultranote.oieieio.xyz", "http://ultranote.oieieio.xyz:8217/stats"],
-
     ]
 };
 
